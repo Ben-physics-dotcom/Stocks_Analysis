@@ -1,0 +1,11 @@
+Chosen stocks/index:
+- S&P 500 Index (^SPX)
+- Dow Jones (^DJI)
+- Apple Inc. (AAPL)
+- Meta Platforms, Inc. (META)
+- BMW AG (BMW:DE)
+- Pfizer Inc. (PFE)
+- Intel Corp. (INTC)
+- Tesla (TSLA)
+- NVIDIA Corp. (NVDA)
+- Lockheed Martin Corp. (LMT)
